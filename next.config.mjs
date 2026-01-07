@@ -15,7 +15,15 @@ const nextConfig = {
       },
       {
         protocol: 'https',
+        hostname: 'beaming-pig-242.convex.cloud'
+      },
+      {
+        protocol: 'https',
         hostname: 'img.clerk.com'
+      },
+      {
+        protocol: 'https',
+        hostname: 'images.unsplash.com'
       },
     ]
   }
